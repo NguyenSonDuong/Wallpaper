@@ -1,0 +1,9 @@
+C:\Users\NguyenSonDuong\Documents\VisualCShapeProject\Wallpaper\Wallpaper\bin\Debug\Wallpaper.exe.config
+C:\Users\NguyenSonDuong\Documents\VisualCShapeProject\Wallpaper\Wallpaper\bin\Debug\Wallpaper.exe
+C:\Users\NguyenSonDuong\Documents\VisualCShapeProject\Wallpaper\Wallpaper\bin\Debug\Wallpaper.pdb
+C:\Users\NguyenSonDuong\Documents\VisualCShapeProject\Wallpaper\Wallpaper\obj\Debug\Wallpaper.csprojResolveAssemblyReference.cache
+C:\Users\NguyenSonDuong\Documents\VisualCShapeProject\Wallpaper\Wallpaper\obj\Debug\Wallpaper.Form1.resources
+C:\Users\NguyenSonDuong\Documents\VisualCShapeProject\Wallpaper\Wallpaper\obj\Debug\Wallpaper.Properties.Resources.resources
+C:\Users\NguyenSonDuong\Documents\VisualCShapeProject\Wallpaper\Wallpaper\obj\Debug\Wallpaper.csproj.GenerateResource.Cache
+C:\Users\NguyenSonDuong\Documents\VisualCShapeProject\Wallpaper\Wallpaper\obj\Debug\Wallpaper.exe
+C:\Users\NguyenSonDuong\Documents\VisualCShapeProject\Wallpaper\Wallpaper\obj\Debug\Wallpaper.pdb
